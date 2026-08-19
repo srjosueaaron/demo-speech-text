@@ -62,7 +62,7 @@ st.markdown(
     """
     Convierte archivos de audio a texto automáticamente.
 
-    Utiliza **Whisper** para realizar la transcripción en español.
+    Demo proporcionada por el equipo de Michigeeks.
     """
 )
 
